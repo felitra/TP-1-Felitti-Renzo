@@ -1,10 +1,8 @@
 /*
  ============================================================================
- Name        : Convertidor.c
- Author      : Felitti Renzo
- Version     : 1.1
- Last Modification : 13/4/2015
- Description : Convertidor a Farenheit in C, Ansi-style
+ Convertidor a Farenheit in C, Ansi-style
+ Felitti Renzo
+ 13/4/2015 
  ============================================================================
  */
 
