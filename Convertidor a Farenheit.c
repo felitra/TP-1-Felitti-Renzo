@@ -3,7 +3,7 @@
  Name        : Convertidor.c
  Author      : Felitti Renzo
  Version     : 1.1
- Copyright   : Your copyright notice
+ Last Modification : 13/4/2015
  Description : Convertidor a Farenheit in C, Ansi-style
  ============================================================================
  */
